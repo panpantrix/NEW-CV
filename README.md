@@ -126,4 +126,24 @@ ul {
         <ul>
             <li>SD Kalidadap 1 (2015 - 2021)</li>
             <li>SMP N 2 Pundong (2021 - 2024)</li>
-            <
+            <li>SMK N 1 Sanden - RPL (2024 - 2027)</li>
+        </ul>
+    </div>
+
+    <!-- Keahlian -->
+    <div class="card">
+        <h2>Keahlian</h2>
+        <div class="skills">
+            <span>HTML</span>
+            <span>CSS</span>
+            <span>JavaScript</span>
+            <span>PHP</span>
+            <span>Laravel</span>
+            <span>NodeJS</span>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
