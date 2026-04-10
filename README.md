@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
@@ -35,11 +34,6 @@ body {
     color: white;
     box-shadow: 0 8px 30px rgba(0,0,0,0.2);
     margin-bottom: 20px;
-    transition: 0.3s;
-}
-
-.profile-card:hover {
-    transform: scale(1.03);
 }
 
 .profile-img {
@@ -57,13 +51,7 @@ body {
 
 .deskripsi {
     font-size: 14px;
-    margin-bottom: 15px;
     line-height: 1.5;
-}
-
-.info p {
-    font-size: 14px;
-    margin: 5px 0;
 }
 
 .card {
@@ -76,6 +64,11 @@ body {
 
 .card h2 {
     margin-bottom: 10px;
+}
+
+.info p {
+    font-size: 14px;
+    margin: 6px 0;
 }
 
 ul {
@@ -94,12 +87,6 @@ ul {
     padding: 6px 12px;
     border-radius: 20px;
     font-size: 13px;
-    transition: 0.3s;
-}
-
-.skills span:hover {
-    background: #00c6ff;
-    transform: scale(1.1);
 }
 </style>
 
@@ -108,9 +95,9 @@ ul {
 
 <div class="container">
 
+    <!-- Profile -->
     <div class="profile-card">
         <img src="poto.jpg" class="profile-img">
-
         <h1>Irfan Dwi Ariyanto</h1>
         <p class="subtitle">Student | RPL Developer</p>
 
@@ -118,7 +105,11 @@ ul {
             Saya adalah seorang siswa kelas 11 RPL 2 dari sekolah SMK N 1 Sanden.
             Saya memiliki minat di bidang pengembangan web dan terus belajar meningkatkan kemampuan di bidang teknologi.
         </p>
+    </div>
 
+    <!-- Informasi -->
+    <div class="card">
+        <h2>Informasi Pribadi</h2>
         <div class="info">
             <p>Tempat: Bantul</p>
             <p>Tanggal Lahir: 20 Januari 2009</p>
@@ -129,25 +120,10 @@ ul {
         </div>
     </div>
 
+    <!-- Pendidikan -->
     <div class="card">
         <h2>Pendidikan</h2>
         <ul>
             <li>SD Kalidadap 1 (2015 - 2021)</li>
             <li>SMP N 2 Pundong (2021 - 2024)</li>
-            <li>SMK N 1 Sanden - RPL (2024 - 2027)</li>
-        </ul>
-    </div>
-
-    <div class="card">
-        <h2>Keahlian</h2>
-        <div class="skills">
-            <span>HTML</span>
-            <span>CSS</span>
-            <span>JavaScript</span>
-            <span>PHP</span>
-            <span>Laravel</span>
-            <span>NodeJS</span>
-        </div>
-    </div>
-
-</div
+            <
