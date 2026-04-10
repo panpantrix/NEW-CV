@@ -115,7 +115,7 @@ ul {
             <p>Tanggal Lahir: 20 Januari 2009</p>
             <p>Agama: Islam</p>
             <p>Alamat: Kalidadap 1, Selopamioro, Imogiri, Bantul</p>
-            <p>Email: pppp@mbohhhh.com</p>
+            <p>Email: pppmbohhhh@gmail.com</p>
             <p>No HP: +62 812-2872-9455</p>
         </div>
     </div>
