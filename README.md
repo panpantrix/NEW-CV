@@ -116,7 +116,11 @@ ul {
             <p>Agama: Islam</p>
             <p>Alamat: Kalidadap 1, Selopamioro, Imogiri, Bantul</p>
             <p>Email: pppmbohhhh@gmail.com</p>
-            <p>No HP: +62 812-2872-9455</p>
+            <p>No HP: +62 Nama: Irfan dwi ariyanto
+Nis:24/
+Jurusan:RPL
+Email: dwiirfan974@gmail.com
+Nomer HP: +62 813-5933-470</p>
         </div>
     </div>
 
